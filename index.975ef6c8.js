@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Hamed Rahmani",
-    title: "Financial Data Analyst",
+    title: "Financial Analyst",
     email: "hamedrhn@gmail.com",
     gitHub: "https://github.com/hamedrhni",
     instagram: "https://www.instagram.com/hamedrhn/",
@@ -27181,7 +27181,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "H1 I don't just work, I build futures. H2 A detail-oriented and results-driven Finance Data Analyst with a proven track record of success in financial modeling, data analysis, and problem-solving. Expertise in SAP R3 and HANA4, data processing and visualization, cloud technologies, and research methodologies.";
+ */ const description = "<strong>I don't just work, I build futures.</strong><br> A detail-oriented and results-driven Finance Data Analyst with a proven track record of success in financial modeling, data analysis, and problem-solving. Expertise in SAP R3 and HANA4, data processing and visualization, cloud technologies, and research methodologies.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28635,7 +28635,7 @@ const Home = ({ name , title  })=>{
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 31,
+                lineNumber: 30,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28650,20 +28650,20 @@ const Home = ({ name , title  })=>{
                         children: name
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
-                        lineNumber: 33,
+                        lineNumber: 32,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
-                        lineNumber: 34,
+                        lineNumber: 33,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 32,
+                lineNumber: 31,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28681,18 +28681,18 @@ const Home = ({ name , title  })=>{
                     alt: imageAltText
                 }, void 0, false, {
                     fileName: "src/Components/Home.jsx",
-                    lineNumber: 37,
+                    lineNumber: 36,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 36,
+                lineNumber: 35,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Home.jsx",
-        lineNumber: 30,
+        lineNumber: 29,
         columnNumber: 5
     }, undefined);
 };
