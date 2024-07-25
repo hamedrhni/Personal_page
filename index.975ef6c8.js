@@ -28758,24 +28758,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "My Scholar profile for downloading articles",
+        description: "From here you can see and download all my published articles and research.",
+        url: "https://scholar.google.com/citations?user=O6BnI5UAAAAJ&hl=en&oi=sra"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "United Nation expreince",
+        description: "My activities at UNU_Merit as a Academic Researcher in Economic and Social Research on Innovation and Technology Policy ",
+        url: "https://unu.edu/merit/about/research-fellow/hamed-rahmani"
     },
     {
-        title: "My Resume Site",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        title: "My Resume Link",
+        description: "you can download my personal CV from this Link. Includes my experience and design abilities.",
+        url: "https://maastrichtuniversity-my.sharepoint.com/:b:/r/personal/hamed_rahmani_maastrichtuniversity_nl/Documents/cv/CV%20July.pdf?csf=1&web=1&e=XQr0fv"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "My Maastricht University Profile",
+        description: "All my activity as a PhD Candidate at Maasticht university School of Business and Economics",
+        url: "https://cris.maastrichtuniversity.nl/en/persons/hamed-rahmani"
     }, 
 ];
 const Portfolio = ()=>{
